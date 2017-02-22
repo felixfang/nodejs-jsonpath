@@ -1,0 +1,23 @@
+
+{
+	"name": "nodejs-jsonpath",
+	"description": "This is a NodeJS version of JsonPath lib of stefan.goessner http://goessner.net/articles/JsonPath/",
+	"keywords": [
+		"nodejs-jsonpath",
+		"json-path",
+		"jsonpath"
+	],
+	"author": {
+		"name": "Yi Fang",
+		"email": "felixfang71@gmail.com"
+	},
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/felixfang/nodejs-jsonpath.git"
+	},
+	"homepage": "https://github.com/felixfang/nodejs-jsonpath.git",
+	"main": "./json-path",
+	"license" : "MIT",
+	"private": false
+}
