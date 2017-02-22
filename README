@@ -2,12 +2,15 @@ This is a NodeJS version of JsonPath lib of stefan.goessner http://goessner.net/
 
 To test it, run the following command in your package root.
 
+```
  $ cd examples
  $ npm install async
  $ node test.js
+```
 
 Result should be shown like below:
 
+```
  i-0bff6d0a88d90ad43: false
  i-0a182d8724012c25c: false
  i-010d1a728898c4297: false
@@ -137,3 +140,4 @@ Result should be shown like below:
  i-07d2a0b0e5874eda7: false
  i-0a205e2f688d73033: false
  Parse samples.json took: 32.640029999999996 milliseconds. 
+``` 
