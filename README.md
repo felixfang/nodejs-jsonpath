@@ -10,7 +10,7 @@ $ node test.js
 
 Result should be shown like below:
 
-```javascript
+```
 i-0bff6d0a88d90ad43: false
 i-0a182d8724012c25c: false
 i-010d1a728898c4297: false
