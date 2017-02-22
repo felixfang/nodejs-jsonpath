@@ -2,7 +2,7 @@ This is a NodeJS version of JsonPath lib of stefan.goessner http://goessner.net/
 
 To test it, run the following command in your package root.
 
-```
+```javascript
 $ cd examples
 $ npm install async
 $ node test.js
@@ -10,7 +10,7 @@ $ node test.js
 
 Result should be shown like below:
 
-```
+```javascript
 i-0bff6d0a88d90ad43: false
 i-0a182d8724012c25c: false
 i-010d1a728898c4297: false
