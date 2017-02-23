@@ -1,6 +1,6 @@
 
 {
-	"name": "nodejs-jsonpath",
+	"name": "json-path",
 	"description": "This is a NodeJS version of JsonPath lib of stefan.goessner http://goessner.net/articles/JsonPath/",
 	"keywords": [
 		"nodejs-jsonpath",
@@ -17,7 +17,7 @@
 		"url": "https://github.com/felixfang/nodejs-jsonpath.git"
 	},
 	"homepage": "https://github.com/felixfang/nodejs-jsonpath.git",
-	"main": "./json-path",
+	"main": "./lib/json-path",
 	"license" : "MIT",
 	"private": false
 }
